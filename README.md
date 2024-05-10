@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-#Desktop
+# Desktop
 ![dekstop img](screenshots/desktop.png)
 
-#Mobile
+# Mobile
 ![mobile img](screenshots/mobile.png)
