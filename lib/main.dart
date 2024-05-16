@@ -4,6 +4,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:homework_29/devices/desktop_app.dart';
 import 'package:homework_29/mobile_app.dart';
 
+/// [Saidazimov tohir]
+
 void main() => runApp(TeamFlowApp());
 
 class TeamFlowApp extends StatelessWidget {
